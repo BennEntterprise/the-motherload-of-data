@@ -30,3 +30,5 @@ For a bit more on how this project is governed check out [HOW-IT-WORKS.md](./HOW
   of data points that are collected from that particular set of services.
 - A visualization that shows "families" of data points; data points that are related
   to each other but will have their own distinct measurement.
+- Interactive word clouds?
+- A 'self' audit tool?
